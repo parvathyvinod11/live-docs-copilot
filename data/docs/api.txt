@@ -1,0 +1,3 @@
+API v5:
+Password login deprecated.
+OAuth token mandatory.
